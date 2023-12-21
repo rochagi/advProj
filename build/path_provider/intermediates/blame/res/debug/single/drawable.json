@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/giovannarocha/Desktop/advx-rebuild/advx_app/build/path_provider/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/giovannarocha/.gradle/caches/transforms-2/files-2.1/06b1dfc2c5a2d0cb1ec20a9e4f441572/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/giovannarocha/Desktop/advx-rebuild/advx_app/build/path_provider/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/giovannarocha/.gradle/caches/transforms-2/files-2.1/06b1dfc2c5a2d0cb1ec20a9e4f441572/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/giovannarocha/Desktop/advx-rebuild/advx_app/build/path_provider/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/giovannarocha/.gradle/caches/transforms-2/files-2.1/06b1dfc2c5a2d0cb1ec20a9e4f441572/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/giovannarocha/Desktop/advx-rebuild/advx_app/build/path_provider/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/giovannarocha/.gradle/caches/transforms-2/files-2.1/06b1dfc2c5a2d0cb1ec20a9e4f441572/core-1.6.0/res/drawable/notification_icon_background.xml"
+    }
+]

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "186950719134",
+    "firebase_url": "https://advogadox-cartorario.firebaseio.com",
+    "project_id": "advogadox-cartorario",
+    "storage_bucket": "advogadox-cartorario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186950719134:android:d2ff246c8fe36a46374d8f",
+        "android_client_info": {
+          "package_name": "br.com.advogadox.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186950719134-6vdbo6k3utbkvperuecbtv6ht4k2pv1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5crvhRoWzYlDNLWRfHO6TDiH3WQ--q30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186950719134-6vdbo6k3utbkvperuecbtv6ht4k2pv1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

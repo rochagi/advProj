@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>186950719134-naed6u9uv1j7vm8cb9upgbnbqecmin66.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.186950719134-naed6u9uv1j7vm8cb9upgbnbqecmin66</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDFfFYk2TDEkuirjFIj6V4e60smdBUThwU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>186950719134</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.advogadox.app</string>
+	<key>PROJECT_ID</key>
+	<string>advogadox-cartorario</string>
+	<key>STORAGE_BUCKET</key>
+	<string>advogadox-cartorario.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:186950719134:ios:5e2204b075bb5aa1374d8f</string>
+	<key>DATABASE_URL</key>
+	<string>https://advogadox-cartorario.firebaseio.com</string>
+</dict>
+</plist>
